@@ -1,3 +1,5 @@
+# SpectraPrivacy
+
 # PDF PII Processing Workflow
 
 This project provides a robust, agent-based workflow for detecting, redacting, masking, anonymizing, encrypting, and highlighting Personally Identifiable Information (PII) in PDF documents.
@@ -44,3 +46,4 @@ See `requirements.txt` for all dependencies.
 
 ---
 MIT License
+
