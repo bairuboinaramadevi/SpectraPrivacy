@@ -1,0 +1,33 @@
+2025-09-21 16:06:57,967 [INFO] Fetching all recognizers for language en
+2025-09-21 16:06:57,993 [WARNING] Entity WORK_OF_ART is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:57,993 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:57,994 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:57,994 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:59,704 [INFO] Fetching all recognizers for language en
+2025-09-21 16:06:59,897 [WARNING] Entity FAC is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:59,901 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:59,901 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:59,901 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:59,901 [WARNING] Entity WORK_OF_ART is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:06:59,901 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:00,090 [INFO] Fetching all recognizers for language en
+2025-09-21 16:07:00,126 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:00,204 [INFO] Fetching all recognizers for language en
+2025-09-21 16:07:00,313 [WARNING] Entity WORK_OF_ART is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:00,313 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:00,943 [INFO] Fetching all recognizers for language en
+2025-09-21 16:07:01,007 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,008 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,008 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,009 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,217 [INFO] Fetching all recognizers for language en
+2025-09-21 16:07:01,280 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,280 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,281 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,690 [INFO] Fetching all recognizers for language en
+2025-09-21 16:07:01,772 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,777 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,777 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,777 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,778 [WARNING] Entity CARDINAL is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.
+2025-09-21 16:07:01,778 [WARNING] Entity WORK_OF_ART is not mapped to a Presidio entity, but keeping anyway. Add to `NerModelConfiguration.labels_to_ignore` to remove.

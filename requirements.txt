@@ -1,0 +1,9 @@
+
+python-dotenv
+google-generativeai
+google-adk
+PyPDF2
+reportlab
+presidio-analyzer
+cryptography
+spacy
